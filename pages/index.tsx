@@ -1,5 +1,6 @@
 import type { NextPage } from "next";
 import { SpeedInsights } from "@vercel/speed-insights/next"
+import { Analytics } from "@vercel/analytics/react"
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
 
@@ -21,6 +22,7 @@ const Home: NextPage = () => {
 
         <p>lol</p>
         <SpeedInsights />
+        <Analytics/>
       </main>
     </div>
   );
