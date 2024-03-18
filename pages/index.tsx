@@ -17,7 +17,7 @@ const Home: NextPage = () => {
         <h1 className={styles.title}>Development Info</h1>
 
         <p className={styles.description}>
-          We are building backincorporated.net and it will be done soon!
+          We are building backincorporated.net and it will be done soon! uwu
         </p>
 
         <p>the site gonna look epic</p>
