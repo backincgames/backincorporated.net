@@ -2,8 +2,8 @@ name: Bug Report
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
-projects:
-assignees:
+projects: ["backincgames/6"]
+assignees: ["theback001"]
 body:
   - type: markdown
     attributes:
