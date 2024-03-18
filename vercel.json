@@ -1,0 +1,10 @@
+{
+  "git": {
+    "deploymentEnabled": {
+      "main": true,
+      "beta": true,
+      "canary": true,
+      "*": false
+    }
+  }
+}
