@@ -12,5 +12,6 @@ Please **do not** create **any** pull requests on this repo, they will be closed
 
 > [!CAUTION]
 > Breaking of these guidelines may lead to action being taken to your account based on our [community guidelines](https://github.com/backincgames/backincorporated.net/blob/main/CODE_OF_CONDUCT.md)
+
 > [!NOTE]  
 > These guidelines are subject to change at any time by Backincorporated Games Studio
