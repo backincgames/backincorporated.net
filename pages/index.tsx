@@ -20,7 +20,7 @@ const Home: NextPage = () => {
           We are building backincorporated.net and it will be done soon!
         </p>
 
-        <p>lolz</p>
+        <p>hi mia its me alex LOOOL</p>
         <SpeedInsights />
         <Analytics/>
       </main>
